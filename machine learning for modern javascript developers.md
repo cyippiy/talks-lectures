@@ -96,3 +96,20 @@
 * Ranking: order items according to some criterions EG google page rank
 * Clustering: partition data into homogeneous regions EG Amazon Personalization
 * Dimensionality Reduction: Find lower dimensional manifold while preserving some properties of data EG 3D Graphics Models as 2D Vector Images
+
+# Challenges for AI Practitioners
+1. Data
+    * accessibility
+    * quality, integrity
+    * distribution (training, validation, test)
+    * computation time
+2. Algorithms
+    * accuracy: overfitting, undercutting
+    * miscliassifcation: testing vs validation
+3. Ethical
+    * biases, morals as decided and judged by AI
+    * privacy / consent
+    * abuse of power
+4. Existential
+    * machine consciousness and robot rights
+    * transhumanism
