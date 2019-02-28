@@ -40,3 +40,13 @@
 * It's all Math
     * Statistics: Probability and Approximation
     * Linear Algebra
+## Why DL on the Browser (JavaScript) ?
+* Advantages:
+    * Ubiquitous: Web, Open Platform, Accessible to billions of users
+    * Edge / CLient Computing: No complex setup/installation required
+    * Edge / Client Computing: Run Offline
+    * HTML5 API's: Camera via WebRTC, Sensors, Speech etc
+    * High performance: WebGL, WebAssembly*, WebGPU*
+* Challenges: 
+    * Single Threaded Environment
+    * Cross Browser Compatibility
