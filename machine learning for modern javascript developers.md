@@ -1,6 +1,9 @@
 # Machine Learning for Modern Javascript Developer  2/27/19
 ## Lecturer: Suyash Joshi from Oracle
 
+## Interesting Links
+* teachablemachine.withgoogle.com
+
 ## Big Picture
 * AI is composed of three elements
     * Big Data
