@@ -1,6 +1,11 @@
 # Machine Learning for Modern Javascript Developer  2/27/19
 ## Lecturer: Suyash Joshi from Oracle
 
+## Connect
+* suyash@suyashjoshi.com
+*  facebook/instagram: @techillusionist
+*  twitter: @suyashcjoshi
+
 ## Interesting Links
 * teachablemachine.withgoogle.com
 
