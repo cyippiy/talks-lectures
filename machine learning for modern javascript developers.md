@@ -13,3 +13,13 @@
         * Cloud Native
     * Neutral Networks
         * OpenSource
+
+## Deep Learning Era
+* untrained (neural Network Model)
+* training (learning a new capability from exisiting data) - Data Scientists
+    * deep learning framework
+    * training dataset
+* inference (applying this capability to new data) - App Developer
+    * trained model (new capability)
+    * new data -> trained model
+    * app or service (featuring capability)
