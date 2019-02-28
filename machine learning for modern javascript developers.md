@@ -50,3 +50,26 @@
 * Challenges: 
     * Single Threaded Environment
     * Cross Browser Compatibility
+## Machine (Deep Leraning Approaches)
+* Supervised Learning
+    * classification 
+    * regression
+* Unsupervised Learning
+    * clustering
+    * dimensionality
+* Reinforcement Learning
+## Typical Machine Learning Workflow
+    * Define problem
+    * Build neural net architecture
+    * Collect (or add more) data
+    * Train for an epoch
+    * is error on training data decresing?
+        * yes -> is error on validation data decreasing
+        * no ->
+    * perform well on training data?
+
+## ML Goal: Improve Cost/Loss Function aka Minimize Error
+* Gradient Descent Algorithm
+* Parameter Optimization
+* Algorithms Efficiency
+* Improve DataSets
