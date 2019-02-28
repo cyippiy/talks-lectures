@@ -76,3 +76,23 @@
 * Parameter Optimization
 * Algorithms Efficiency
 * Improve DataSets
+
+## Simple Linear Function: Linear Regression Model
+* Goal: Predicting a response on Continuous Linear Data order to find the "Best Fit Line"
+* Human Brain is like a highly complex, non linear and massively parallel computer
+
+## Probabilistic Interpretation: There is No Black or White
+* Optimization
+* Generalization
+* Data Set
+
+## Tensor Basics
+* Tensor Object consists of
+    * data type
+    * shape
+### ML Common Tasks on the Browser
+* Classification: assign a category for each item EG email classification
+* Regression: predict real value for each item
+* Ranking: order items according to some criterions EG google page rank
+* Clustering: partition data into homogeneous regions EG Amazon Personalization
+* Dimensionality Reduction: Find lower dimensional manifold while preserving some properties of data EG 3D Graphics Models as 2D Vector Images
